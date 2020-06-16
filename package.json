@@ -1,0 +1,39 @@
+{
+  "name": "homee",
+  "version": "1.0.0",
+  "description": "Homee is an ‘At-Home’ service provider that assists clients with recruiting top-notch service professionals. Professionals like technicians, cleaners, beauticians, masseurs, painters, packers & movers.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkumar9150/Homee.git"
+  },
+  "keywords": [
+    "Homee",
+    "service",
+    "professional",
+    "technicians",
+    "cleaner",
+    "beautician",
+    "painter",
+    "packers"
+  ],
+  "author": "Jatinder Kumar, Parwinder Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkumar9150/Homee/issues"
+  },
+  "homepage": "https://github.com/jkumar9150/Homee#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.19"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
