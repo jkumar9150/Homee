@@ -6,13 +6,25 @@ Experienced, hand picked professionals at your door step.
 
 ## Services Delieverd The Right Way
 
-- Bulleted
-- List
+- Salon 
+- Massage Therapy
+- Carpenters
+- Plumbers
+- Electricians
+- Appliance Repair
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Technology Stack # 
+
+**MEAN Stack**
+
+_Back End_ - `Nodejs`
+_Front End_ - `Angularjs`
+_DataBase_ - `MongoDB`
+
+
+
+and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
