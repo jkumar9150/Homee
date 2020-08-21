@@ -4,16 +4,6 @@ Homee is an ‘At-Home’ service provider that assists clients with hiring top-
 ### Your One Stop Solution For Home Based Services
 Experienced, hand picked professionals at your door step.
 
-## Services Delieverd The Right Way
-
-- Salon 
-- Massage Therapy
-- Carpenters
-- Plumbers
-- Electricians
-- Appliance Repair
-
-
 # Technology Stack # 
 
 **MEAN Stack**
@@ -21,6 +11,11 @@ Experienced, hand picked professionals at your door step.
 _Back End_ - `Nodejs`
 _Front End_ - `Angularjs`
 _DataBase_ - `MongoDB`
+
+## Architecture Used ##
+
+MVC (Model View Controller)
+
 
 ## Setting up Project ##
 
