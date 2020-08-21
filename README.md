@@ -1,8 +1,5 @@
 ## Welcome to Homee
-
-You can use the [editor on GitHub](https://github.com/jkumar9150/Homee/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Homee is an ‘At-Home’ service provider that assists clients with hiring top-notch service professionals. Professionals like technicians, cleaners, beauticians, masseurs, painters, packers & movers.
 
 ### Markdown
 
@@ -11,7 +8,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Services Delieverd The Right Way
 ## Header 2
 ### Header 3
 
