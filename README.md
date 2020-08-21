@@ -2,10 +2,9 @@
 Homee is an ‘At-Home’ service provider that assists clients with hiring top-notch service professionals. Professionals like technicians, cleaners, beauticians, masseurs, painters, packers & movers.
 
 ### Your One Stop Solution For Home Based Services
+Experienced, hand picked professionals at your door step.
 
-# Services Delieverd The Right Way
-## Header 2
-### Header 3
+## Services Delieverd The Right Way
 
 - Bulleted
 - List
