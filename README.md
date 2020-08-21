@@ -22,15 +22,19 @@ _Back End_ - `Nodejs`
 _Front End_ - `Angularjs`
 _DataBase_ - `MongoDB`
 
+## Setting up Project ##
 
-
-and _Italic_ and `Code` text
+1. Navigate to Backend (Nodejs) folder
+2. Open in terminal
+2. Run npm install
+3. Navigate to Package.json file in HomeeClientfolder
+5. Open in terminal
+6. Run npm install
+7. Run ng serve
 
 [Link](url) and ![Image](src)
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
